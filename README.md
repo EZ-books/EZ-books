@@ -1,10 +1,10 @@
 # Project  - *EZ-Books*
 
 **EZ-Books** is an app that can let the user buy and sell books an convenient way.
-
 Time spent: **X** hours spent in total
 
 ## User Stories
+
 
 The following **required** functionality is completed:
 
@@ -20,11 +20,11 @@ The following **optional** features are implemented:
 - [x] User can pull to refresh.
 - [X] collection view
 - [X] User can be able to scan the books
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -32,7 +32,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 ## License
-
 Copyright [2016] []
 
 Licensed under the Apache License, Version 2.0 (the "License");
