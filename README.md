@@ -8,18 +8,19 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] User can be able to sing up/in using their facebook and google account  
-- [X] User can be able to sell/buy books
-- [X] User can be able to browse thought the books
-- [X] User can be able to rate seller
-- [X] User can be able to get the current location
+- [] User can be able to sing up/in using their facebook and google account  
+- [] User can be able to sell/buy books
+- [] User can be able to browse thought the books
+- [] User can be able to rate seller
+- [] User can be able to get the current location
 
 The following **optional** features are implemented:
 
-- [X] User can be able to chat with the seller
-- [x] User can pull to refresh.
-- [X] collection view
-- [X] User can be able to scan the books
+- [] User can be able to chat with the seller.
+- [] User can pull to refresh.
+- [] collection view.
+- [] User can be able to scan the books
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
