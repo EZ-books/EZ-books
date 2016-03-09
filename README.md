@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can be able to sing up/in using their facebook and google account  
+- [ ] User can be able to sign up/in using their facebook and google account  
 - [ ] User can be able to sell/buy books
 - [ ] User can be able to browse thought the books
 - [ ] User can be able to rate seller
