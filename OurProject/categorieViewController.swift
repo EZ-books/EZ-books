@@ -9,7 +9,7 @@
 import UIKit
 import BTNavigationDropdownMenu
 
-class CollectionsViewController: UIViewController{
+class categorieViewController: UIViewController{
      var menuView: BTNavigationDropdownMenu!
    
     @IBOutlet weak var collectionLabel: UILabel!
@@ -42,8 +42,16 @@ class CollectionsViewController: UIViewController{
         self.navigationItem.titleView = menuView
     }
     
+    @IBAction func onClick(sender: AnyObject) {
+        
+        
+        let appDelegate: AppDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
+        appDelegate.centerContianer!.toggleDrawerSide(MMDrawerSide.Left, animated: true, completion: nil)
+        
+
     }
     
+}
     //let menuView = BTNavigationDropdownMenu(navigationController: self.navigationController, title: items.first!, items: items)
 
     /*
